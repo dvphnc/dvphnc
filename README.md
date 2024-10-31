@@ -12,6 +12,6 @@
 ## Skillsets
 
 ### Technical Skills
-- ***Database Management**: [e.g., MySQL, IBM Db2]
+- *Database Management:* IBM Db2
 ### Soft Skills
 - *Time management*
