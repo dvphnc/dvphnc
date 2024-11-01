@@ -2,7 +2,10 @@
 - **Name**: Joana Daphne T. Sy
 - **Age**: 19 years old
 - **Email**: jdsoffcl@gmail.com
+
+### Contact Me
 - **LinkedIn**: www.linkedin.com/in/dvphnc
+-  **Github**:
 
 ## Education
 - 2nd Year - Bachelor of Science in Information Technology
