@@ -13,7 +13,7 @@
 ## Skillsets
 
 ### Technical Skills
-- *Database Management*
+- *Graphic Designing*
 - *Web Development*
   
 ### Soft Skills
