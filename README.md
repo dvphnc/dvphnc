@@ -6,7 +6,7 @@
 ### Contact Info
 - **Email**: jdsoffcl@gmail.com
 - **LinkedIn**: www.linkedin.com/in/dvphnc
--  **Github**: https://github.com/dvphnc/
+-  **Github**: https://github.com/dvphnc
 
 ## Education
 
