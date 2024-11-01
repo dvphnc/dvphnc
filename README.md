@@ -3,6 +3,7 @@
 - **Age**: 19 years old
 - **Email**: jdsoffcl@gmail.com
 - **LinkedIn**: www.linkedin.com/in/dvphnc
+
 ## Education
 - 2nd Year - Bachelor of Science in Information Technology
 
@@ -12,7 +13,9 @@
 ## Skillsets
 
 ### Technical Skills
-- *Database Management:* IBM Db2
+- *Database Management*
+- *Web Development*
+  
 ### Soft Skills
 - *Time management*
 - *Critical thinking*
