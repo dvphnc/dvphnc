@@ -5,7 +5,7 @@
 
 ### Contact Me
 - **LinkedIn**: www.linkedin.com/in/dvphnc
--  **Github**:
+-  **Github**: https://github.com/dvphnc/
 
 ## Education
 - 2nd Year - Bachelor of Science in Information Technology
