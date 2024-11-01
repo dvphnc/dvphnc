@@ -11,9 +11,9 @@
 ## Education
 
 ### 2023 - Present
-- College, 2nd Year: Bachelor of Science in Information Technology | New Era University
+- College, 2nd Year: *Bachelor of Science in Information Technology* | New Era University
 ### 2021 - 2023 
-- Senior High School, Grade 11 - Grade 12: Science, Technology, and Mathematics Strand | New Era University Integrated School
+- Senior High School, Grade 11 - Grade 12: *Science, Technology, and Mathematics Strand* | New Era University Integrated School
 ### 2017 - 2021
 - Junior High School, Grade 7 - Grade 10 | New Era University Integrated School
   
