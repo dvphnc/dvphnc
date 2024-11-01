@@ -11,7 +11,9 @@ Joana Daphne T. Sy
 ## Education
 
 ### 2024
-- *Bachelor of Science in Information Technology*, New Era University
+- *Bachelor of Science in Information Technology* | New Era University
+#### 2024
+- *Bachelor of Science in Information Technology* | New Era University
 
 ## Certifications
 - [SQL and Relational Databases 101, Cognitive Class - 2024](https://courses.cognitiveclass.ai/certificates/fea1a489739a4b02ab4c9d266a0ade0f)
