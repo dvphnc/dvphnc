@@ -1,8 +1,9 @@
 ## Personal Details
 - **Name**: Joana Daphne T. Sy
 - **Age**: 19 years old
+- *Based In: Quezon City, Philippines*
 
-### Contact Me
+### Contact Info
 - **Email**: jdsoffcl@gmail.com
 - **LinkedIn**: www.linkedin.com/in/dvphnc
 -  **Github**: https://github.com/dvphnc/
