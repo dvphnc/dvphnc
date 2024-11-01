@@ -1,5 +1,6 @@
 ## Personal Details
-- **Name**: Joana Daphne T. Sy
+### Name
+Joana Daphne T. Sy
 - **Age**: 19 years old
 
 ### Contact Me
@@ -8,6 +9,8 @@
 -  **Github**: https://github.com/dvphnc/
 
 ## Education
+
+### 2024
 - *Bachelor of Science in Information Technology*, New Era University
 
 ## Certifications
