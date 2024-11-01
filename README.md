@@ -1,5 +1,5 @@
 ## Personal Details
-- **Name**: Joana Daphne T. Sy
+- #### **Name**: Joana Daphne T. Sy
 - **Age**: 19 years old
 - **Based In:** Quezon City, Philippines
 
