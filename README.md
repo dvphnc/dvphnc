@@ -14,8 +14,6 @@
 - **College, 2nd Year**: *Bachelor of Science in Information Technology* | New Era University
 ### 2021 - 2023 
 - **Senior High School**: *Science, Technology, and Mathematics Strand* | New Era University Integrated School
-### 2017 - 2021
-- **Junior High School** | New Era University Integrated School
   
 ## Certifications
 - [Oracle Cloud Infrastructure 2024 Certified Foundations Associate, Oracle | 2024](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D43A8C93FE30161F5AF6077AE49AB9FE797A13EA6EB10947B7E30B9B0DFD2DC1)
