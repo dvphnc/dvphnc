@@ -24,6 +24,7 @@
 ## Skillsets
 
 ### Technical Skills
+- *Prompt Engineering*
 - *Graphic Designing*
 - *Web Development*
   
