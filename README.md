@@ -11,7 +11,7 @@
 ## Education
 
 ### 2023 - Present
-- **College, 2nd Year**: *Bachelor of Science in Information Technology* | New Era University
+- **College, 3rd Year**: *Bachelor of Science in Information Technology* | New Era University
 ### 2021 - 2023 
 - **Senior High School**: *Science, Technology, and Mathematics Strand* | New Era University Integrated School
   
