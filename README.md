@@ -1,6 +1,6 @@
 <div align="center">
 
-![banner](https://raw.githubusercontent.com/dvphnc/dvphnc/main/public/dvphnc-pixel-banner.svg)
+![banner](https://raw.githubusercontent.com/dvphnc/dvphnc/main/dvphnc-pixel-banner.svg)
 
 </div>
 
