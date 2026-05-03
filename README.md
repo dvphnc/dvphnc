@@ -1,16 +1,14 @@
 <div align="center">
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:001a5e,50:003087,100:0044cc&height=200&section=header&text=dvphnc&fontSize=72&fontColor=ffffff&fontAlignY=38&desc=Joana%20Daphne%20Sy&descSize=20&descAlignY=58&descColor=80c0ff&animation=fadeIn)
+![banner](https://raw.githubusercontent.com/dvphnc/dvphnc/main/public/dvphnc-pixel-banner.svg)
 
 </div>
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&pause=1000&color=4D9FFF&center=true&vCenter=true&width=600&lines=BSIT+Student+%7C+New+Era+University;Aspiring+Executive+Assistant;Oracle+Cloud+Certified;Scrum+Master+%26+UI%2FUX+Designer;Building+things+from+scratch.)](https://dvphnc.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&pause=1200&color=4D9FFF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Joana+Daphne.;Kumusta%2C+ako+si+Joana+Daphne.;Bonjour%2C+je+m'appelle+Joana+Daphne.;Hola%2C+soy+Joana+Daphne.;Ciao%2C+mi+chiamo+Joana+Daphne.;Hallo%2C+ich+hei%C3%9Fe+Joana+Daphne.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%B8%E3%83%A7%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%80%E3%83%95%E3%83%8D%E3%81%A7%E3%81%99%E3%80%82;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%80%EB%8A%94+%EC%A1%B0%EC%95%84%EB%82%98+%EB%8B%A4%ED%94%84%EB%84%A4%EC%9E%85%EB%8B%88%EB%8B%A4.;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB+Joana+Daphne%E3%80%82;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82%2C+%D0%BC%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+Joana+Daphne.;Merhaba%2C+ben+Joana+Daphne.)](https://dvphnc.github.io)
 
 </div>
-
-<br/>
 
 <div align="center">
 
@@ -123,7 +121,7 @@ const dvphnc = {
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0044cc,50:003087,100:001a5e&height=120&section=footer&fontColor=ffffff&animation=fadeIn)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0044cc,50:003087,100:001a5e&height=120&section=footer&animation=fadeIn)
 
 *✦ President's Lister · Oracle Certified · Building from scratch ✦*
 
