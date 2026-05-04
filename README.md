@@ -6,6 +6,12 @@
 
 <br/>
 
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=4D9FFF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Joana+Daphne.;Kumusta%2C+ako+si+Joana+Daphne.;Bonjour%2C+je+m'appelle+Joana+Daphne.;Hola%2C+soy+Joana+Daphne.;Ciao%2C+mi+chiamo+Joana+Daphne.;Hallo%2C+ich+hei%C3%9Fe+Joana+Daphne.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%B8%E3%83%A7%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%80%E3%83%95%E3%83%8D%E3%81%A7%E3%81%99%E3%80%82;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%80%EB%8A%94+%EC%A1%B0%EC%95%84%EB%82%98+%EB%8B%A4%ED%94%84%EB%84%A4%EC%9E%85%EB%8B%88%EB%8B%A4.;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB+Joana+Daphne%E3%80%82;Merhaba%2C+ben+Joana+Daphne.)](https://dvphnc.github.io)
+
+</div>
+
 <h3 align="center">
   Hi, I'm Joana Daphne — <sub>also known as dvphnc</sub>
 </h3>
@@ -20,15 +26,11 @@
   I turn ideas into working, deployed products.
 </p>
 
-<div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=4D9FFF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Joana+Daphne.;Kumusta%2C+ako+si+Joana+Daphne.;Bonjour%2C+je+m'appelle+Joana+Daphne.;Hola%2C+soy+Joana+Daphne.;Ciao%2C+mi+chiamo+Joana+Daphne.;Hallo%2C+ich+hei%C3%9Fe+Joana+Daphne.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%B8%E3%83%A7%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%80%E3%83%95%E3%83%8D%E3%81%A7%E3%81%99%E3%80%82;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%80%EB%8A%94+%EC%A1%B0%EC%95%84%EB%82%98+%EB%8B%A4%ED%94%84%EB%84%A4%EC%9E%85%EB%8B%88%EB%8B%A4.;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB+Joana+Daphne%E3%80%82;Merhaba%2C+ben+Joana+Daphne.)](https://dvphnc.github.io)
-
-</div>
 
 <br/>
 
----
+
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-code.svg" width="20" height="20"/></sub>&nbsp; Tech Stack
@@ -44,7 +46,7 @@
 
 <br/>
 
----
+
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-projects.svg" width="20" height="20"/></sub>&nbsp; Featured Projects
@@ -68,7 +70,7 @@
 
 <br/>
 
----
+
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-certs.svg" width="20" height="20"/></sub>&nbsp; Certifications
@@ -90,7 +92,6 @@
 
 <br/>
 
----
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-stats.svg" width="20" height="20"/></sub>&nbsp; GitHub Stats
@@ -100,19 +101,48 @@
 
 <br/>
 
+<!-- Stats row -->
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvphnc&show_icons=true&hide_border=true&bg_color=001a5e&title_color=4d9fff&icon_color=4d9fff&text_color=80c0ff&include_all_commits=true&rank_icon=github&ring_color=0044cc" alt="GitHub Stats"/>
-  &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvphnc&layout=compact&hide_border=true&bg_color=001a5e&title_color=4d9fff&text_color=80c0ff&langs_count=6" alt="Top Languages"/>
-</div>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=dvphnc&hide_border=true&background=001a5e&ring=4d9fff&fire=0044cc&currStreakLabel=80c0ff&sideLabels=80c0ff&dates=4d9fff&border=003087&currStreakNum=ffffff&sideNums=ffffff&stroke=003087" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=dvphnc&show_icons=true&hide_border=true&bg_color=001a5e&title_color=4d9fff&icon_color=4d9fff&text_color=80c0ff&include_all_commits=true&rank_icon=github&ring_color=0044cc&custom_title=dvphnc's+Stats" height="170" alt="GitHub Stats"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvphnc&layout=donut&hide_border=true&bg_color=001a5e&title_color=4d9fff&text_color=80c0ff&langs_count=6" height="170" alt="Top Languages"/>
 </div>
 
 <br/>
 
----
+<!-- Streak -->
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=dvphnc&hide_border=true&background=001a5e&ring=4d9fff&fire=0044cc&currStreakLabel=80c0ff&sideLabels=4d9fff&dates=80c0ff&currStreakNum=ffffff&sideNums=ffffff&stroke=0044cc&type=svg" width="49%" alt="Streak"/>
+</div>
+
+<br/>
+
+<!-- Activity graph — full width, most visual impact -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvphnc&bg_color=001a5e&color=4d9fff&line=0044cc&point=80c0ff&area=true&area_color=0044cc&hide_border=true&custom_title=Contribution+Activity" width="100%" alt="Activity Graph"/>
+</div>
+
+<br/>
+
+<!-- Snake contribution graph — requires GitHub Actions setup (see below) -->
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake.svg"/>
+    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg"/>
+  </picture>
+</div>
+
+> **Note:** The snake animation requires a one-time GitHub Actions setup — see [`snake-setup.yml`](#) below.
+
+<!-- Trophies -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=dvphnc&theme=onestar&no-frame=true&column=6&margin-w=8&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" width="100%" alt="Trophies"/>
+</div>
+
+<br/>
+
+
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-connect.svg" width="20" height="20"/></sub>&nbsp; Connect With Me
@@ -150,4 +180,3 @@
 
 <br/>
 
-<img src="./dvphnc-divider.svg" width="100%"/>
