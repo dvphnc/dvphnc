@@ -110,15 +110,6 @@
 
 
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
-
-<br/>
 
 
 
@@ -157,4 +148,15 @@
 </div>
 
 <br/>
+<img src="./dvphnc-divider.svg" width="100%"/>
+<br>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake.svg"/>
+    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  </picture>
+</div>
+
+<br/>
