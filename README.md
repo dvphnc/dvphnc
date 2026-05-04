@@ -117,7 +117,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvphnc&theme=github_dark" width="100%" alt="GitHub Contribution Calendar"/>
+  <img src="https://ghchart.rshah.org/4d9fff/dvphnc" width="100%" alt="GitHub Contributions"/>
 </div>
 
 <br/>
