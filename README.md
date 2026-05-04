@@ -108,6 +108,13 @@
   <img src="https://streak-stats.demolab.com?user=dvphnc&hide_border=true&background=0d1117&ring=4d9fff&fire=0044cc&currStreakLabel=4d9fff&sideLabels=4d9fff&dates=80c0ff&currStreakNum=ffffff&sideNums=80c0ff&stroke=0d1117" width="60%" alt="GitHub Streak"/>
 </div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvphnc&bg_color=0d1117&color=80c0ff&line=4d9fff&point=4d9fff&area=true&area_color=003087&hide_border=true&custom_title=Contribution+Graph&radius=6" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
 
 
 
@@ -148,8 +155,6 @@
 </div>
 
 <br/>
-<img src="./dvphnc-divider.svg" width="100%"/>
-<br>
 
 <div align="center">
   <picture>
@@ -160,3 +165,4 @@
 </div>
 
 <br/>
+
