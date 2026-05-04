@@ -28,6 +28,7 @@
 
 <br/>
 
+---
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-code.svg" width="20" height="20"/></sub>&nbsp; Tech Stack
@@ -43,6 +44,7 @@
 
 <br/>
 
+---
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-projects.svg" width="20" height="20"/></sub>&nbsp; Featured Projects
@@ -66,7 +68,7 @@
 
 <br/>
 
-
+---
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-certs.svg" width="20" height="20"/></sub>&nbsp; Certifications
@@ -88,7 +90,7 @@
 
 <br/>
 
-
+---
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-stats.svg" width="20" height="20"/></sub>&nbsp; GitHub Stats
@@ -99,14 +101,18 @@
 <br/>
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvphnc&show_icons=true&hide_border=true&bg_color=001a5e&title_color=4d9fff&icon_color=4d9fff&text_color=80c0ff&include_all_commits=true" alt="GitHub Stats"/>
-  &nbsp;
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dvphnc&show_icons=true&hide_border=true&bg_color=001a5e&title_color=4d9fff&icon_color=4d9fff&text_color=80c0ff&include_all_commits=true&rank_icon=github&ring_color=0044cc" alt="GitHub Stats"/>
+  &nbsp;&nbsp;
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvphnc&layout=compact&hide_border=true&bg_color=001a5e&title_color=4d9fff&text_color=80c0ff&langs_count=6" alt="Top Languages"/>
+</div>
+<br/>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dvphnc&hide_border=true&background=001a5e&ring=4d9fff&fire=0044cc&currStreakLabel=80c0ff&sideLabels=80c0ff&dates=4d9fff&border=003087&currStreakNum=ffffff&sideNums=ffffff&stroke=003087" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-
+---
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-connect.svg" width="20" height="20"/></sub>&nbsp; Connect With Me
@@ -144,4 +150,4 @@
 
 <br/>
 
-
+<img src="./dvphnc-divider.svg" width="100%"/>
