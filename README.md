@@ -97,21 +97,27 @@
 <br/>
 
 <div align="center">
-  <img src="https://dvphnc-stats.vercel.app/api?username=dvphnc&show_icons=true&hide_border=true&bg_color=001a5e&title_color=4d9fff&icon_color=4d9fff&text_color=80c0ff&include_all_commits=true&count_private=true&rank_icon=github&ring_color=0044cc&custom_title=dvphnc's+Stats" height="195" alt="GitHub Stats"/>
+  <img src="https://dvphnc-stats.vercel.app/api?username=dvphnc&show_icons=true&hide_border=true&bg_color=0d1117&title_color=4d9fff&icon_color=4d9fff&text_color=80c0ff&include_all_commits=true&count_private=true&rank_icon=github&ring_color=0044cc&custom_title=dvphnc's+Stats" height="195" alt="GitHub Stats"/>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://dvphnc-stats.vercel.app/api/top-langs/?username=dvphnc&hide_border=true&bg_color=001a5e&title_color=4d9fff&text_color=80c0ff&langs_count=8&layout=compact&custom_title=Most+Used+Languages" height="195" alt="Top Languages"/>
+  <img src="https://dvphnc-stats.vercel.app/api/top-langs/?username=dvphnc&hide_border=true&bg_color=0d1117&title_color=4d9fff&text_color=80c0ff&langs_count=8&layout=compact&custom_title=Most+Used+Languages" height="195" alt="Top Languages"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dvphnc&hide_border=true&background=001a5e&ring=4d9fff&fire=0044cc&currStreakLabel=4d9fff&sideLabels=4d9fff&dates=80c0ff&currStreakNum=ffffff&sideNums=80c0ff&stroke=003087" width="60%" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=dvphnc&hide_border=true&background=0d1117&ring=4d9fff&fire=0044cc&currStreakLabel=4d9fff&sideLabels=4d9fff&dates=80c0ff&currStreakNum=ffffff&sideNums=80c0ff&stroke=0d1117" width="60%" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvphnc&bg_color=001a5e&color=80c0ff&line=4d9fff&point=ffffff&area=true&area_color=003087&hide_border=true&custom_title=Contribution+Graph&radius=6" width="100%" alt="Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvphnc&bg_color=0d1117&color=80c0ff&line=4d9fff&point=4d9fff&area=true&area_color=003087&hide_border=true&custom_title=Contribution+Graph&radius=6" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/4d9fff/dvphnc" width="100%" alt="GitHub Contributions"/>
 </div>
 
 <br/>
