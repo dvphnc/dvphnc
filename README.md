@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <strong>Information Technology</strong> student at <strong>New Era University</strong> · <em>3rd Year · President's Lister · GWA 1.17</em>
+  <strong>Information Technology</strong> student at <strong>New Era University</strong> · <br><em>3rd Year · President's Lister</em>
 </p>
 
 <p align="center">
