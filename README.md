@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <strong>Information Technology</strong> student at <strong>New Era University</strong> · <em>3rd Year · President's Lister</em>
+  <strong>Information Technology</strong> student at <strong>New Era University</strong> · <em>3rd Year · President's Lister · GWA 1.17</em>
 </p>
 
 <p align="center">
@@ -96,43 +96,22 @@
 
 <br/>
 
-<!-- Stats row -->
 <div align="center">
-  <img src="https://dvphnc-stats.vercel.app/api?username=dvphnc&show_icons=true&hide_border=true&bg_color=001a5e&title_color=4d9fff&icon_color=4d9fff&text_color=80c0ff&include_all_commits=true&rank_icon=github&ring_color=0044cc&custom_title=dvphnc's+Stats" height="170" alt="GitHub Stats"/>
-  &nbsp;
-  <img src="https://dvphnc-stats.vercel.app/api/top-langs/?username=dvphnc&layout=donut&hide_border=true&bg_color=001a5e&title_color=4d9fff&text_color=80c0ff&langs_count=6" height="170" alt="Top Languages"/>
+  <img src="https://dvphnc-stats.vercel.app/api?username=dvphnc&show_icons=true&hide_border=true&bg_color=001a5e&title_color=4d9fff&icon_color=4d9fff&text_color=80c0ff&include_all_commits=true&count_private=true&rank_icon=github&ring_color=0044cc&custom_title=dvphnc's+Stats" height="195" alt="GitHub Stats"/>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://dvphnc-stats.vercel.app/api/top-langs/?username=dvphnc&hide_border=true&bg_color=001a5e&title_color=4d9fff&text_color=80c0ff&langs_count=8&layout=compact&custom_title=Most+Used+Languages" height="195" alt="Top Languages"/>
 </div>
 
 <br/>
 
-<!-- Streak -->
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=dvphnc&hide_border=true&background=001a5e&ring=4d9fff&fire=0044cc&currStreakLabel=80c0ff&sideLabels=4d9fff&dates=80c0ff&currStreakNum=ffffff&sideNums=ffffff&stroke=0044cc&type=svg" width="49%" alt="Streak"/>
+  <img src="https://streak-stats.demolab.com?user=dvphnc&hide_border=true&background=001a5e&ring=4d9fff&fire=0044cc&currStreakLabel=4d9fff&sideLabels=4d9fff&dates=80c0ff&currStreakNum=ffffff&sideNums=80c0ff&stroke=003087" width="60%" alt="GitHub Streak"/>
 </div>
 
 <br/>
 
-<!-- Activity graph — full width, most visual impact -->
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvphnc&bg_color=001a5e&color=4d9fff&line=0044cc&point=80c0ff&area=true&area_color=0044cc&hide_border=true&custom_title=Contribution+Activity" width="100%" alt="Activity Graph"/>
-</div>
-
-<br/>
-
-<!-- Snake contribution graph — requires GitHub Actions setup (see below) -->
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake.svg"/>
-    <img alt="snake eating contributions" src="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg"/>
-  </picture>
-</div>
-
-> **Note:** The snake animation requires a one-time GitHub Actions setup — see [`snake-setup.yml`](#) below.
-
-<!-- Trophies -->
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dvphnc&theme=onestar&no-frame=true&column=6&margin-w=8&title=Stars,Commits,Repositories,Followers,PullRequest,Issues" width="100%" alt="Trophies"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvphnc&bg_color=001a5e&color=80c0ff&line=4d9fff&point=ffffff&area=true&area_color=003087&hide_border=true&custom_title=Contribution+Graph&radius=6" width="100%" alt="Activity Graph"/>
 </div>
 
 <br/>
