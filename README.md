@@ -110,15 +110,6 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvphnc&bg_color=0d1117&color=80c0ff&line=4d9fff&point=4d9fff&area=true&area_color=003087&hide_border=true&custom_title=Contribution+Graph&radius=6" width="100%" alt="Contribution Graph"/>
-</div>
-
-<br/>
-
-
-
-
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-connect.svg" width="20" height="20"/></sub>&nbsp; Connect With Me
