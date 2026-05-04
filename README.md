@@ -35,7 +35,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,php,mysql,html,css,js,vue,react,figma,canva,git,github,vscode,linux,oracle&theme=dark&titles=true&perline=8" alt="Tech Stack"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,php,mysql,sqlite,html,css,js,ts,vue,react,nextjs,nodejs,canva,git,github,vscode,oracle,docker,vercel,supabase&theme=dark&titles=true&perline=10" alt="Tech Stack"/>
 </p>
 
 <br/>
@@ -117,7 +117,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://ghchart.rshah.org/4d9fff/dvphnc" width="100%" alt="GitHub Contributions"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dvphnc&theme=github_dark" width="100%" alt="GitHub Contribution Calendar"/>
 </div>
 
 <br/>
