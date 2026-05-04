@@ -8,13 +8,9 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=4D9FFF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Joana+Daphne.;Kumusta%2C+ako+si+Joana+Daphne.;Bonjour%2C+je+m'appelle+Joana+Daphne.;Hola%2C+soy+Joana+Daphne.;Ciao%2C+mi+chiamo+Joana+Daphne.;Hallo%2C+ich+hei%C3%9Fe+Joana+Daphne.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%B8%E3%83%A7%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%80%E3%83%95%E3%83%8D%E3%81%A7%E3%81%99%E3%80%82;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%80%EB%8A%94+%EC%A1%B0%EC%95%84%EB%82%98+%EB%8B%A4%ED%94%84%EB%84%A4%EC%9E%85%EB%8B%88%EB%8B%A4.;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB+Joana+Daphne%E3%80%82;Merhaba%2C+ben+Joana+Daphne.)](https://dvphnc.github.io)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=14&pause=1200&color=4D9FFF&center=true&vCenter=true&width=650&lines=Hello%2C+I'm+Joana+Daphne+Sy.;Kumusta%2C+ako+si+Joana+Daphne+Sy.;Bonjour%2C+je+m'appelle+Joana+Daphne+Sy.;Hola%2C+soy+Joana+Daphne+Sy.;Ciao%2C+mi+chiamo+Joana+Daphne+Sy.;Hallo%2C+ich+hei%C3%9Fe+Joana+Daphne+Sy.;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E3%80%81%E3%82%B8%E3%83%A7%E3%82%A2%E3%83%8A%E3%83%BB%E3%83%80%E3%83%95%E3%83%8D%E3%81%A7%E3%81%99%E3%80%82;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94%2C+%EC%A0%80%EB%8A%94+%EC%A1%B0%EC%95%84%EB%82%98+%EB%8B%A4%ED%94%84%EB%84%A4%EC%9E%85%EB%8B%88%EB%8B%A4.;%E4%BD%A0%E5%A5%BD%EF%BC%8C%E6%88%91%E5%8F%AB+Joana+Daphne+Sy%E3%80%82;Merhaba%2C+ben+Joana+Daphne+Sy.)](https://dvphnc.github.io)
 
 </div>
-
-<h3 align="center">
-  Hi, I'm Joana Daphne — <sub>also known as dvphnc</sub>
-</h3>
 
 <p align="center">
   <strong>Information Technology</strong> student at <strong>New Era University</strong> · <em>3rd Year · President's Lister · GWA 1.17</em>
@@ -25,8 +21,6 @@
   From <strong>full-stack Laravel apps</strong> to <strong>GSAP-animated portfolios</strong>,<br/>
   I turn ideas into working, deployed products.
 </p>
-
-
 
 <br/>
 
@@ -93,6 +87,7 @@
 <br/>
 
 
+
 <h3 align="center">
   <sub><img src="./dvphnc-icon-stats.svg" width="20" height="20"/></sub>&nbsp; GitHub Stats
 </h3>
@@ -103,9 +98,9 @@
 
 <!-- Stats row -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dvphnc&show_icons=true&hide_border=true&bg_color=001a5e&title_color=4d9fff&icon_color=4d9fff&text_color=80c0ff&include_all_commits=true&rank_icon=github&ring_color=0044cc&custom_title=dvphnc's+Stats" height="170" alt="GitHub Stats"/>
+  <img src="https://dvphnc-stats.vercel.app/api?username=dvphnc&show_icons=true&hide_border=true&bg_color=001a5e&title_color=4d9fff&icon_color=4d9fff&text_color=80c0ff&include_all_commits=true&rank_icon=github&ring_color=0044cc&custom_title=dvphnc's+Stats" height="170" alt="GitHub Stats"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvphnc&layout=donut&hide_border=true&bg_color=001a5e&title_color=4d9fff&text_color=80c0ff&langs_count=6" height="170" alt="Top Languages"/>
+  <img src="https://dvphnc-stats.vercel.app/api/top-langs/?username=dvphnc&layout=donut&hide_border=true&bg_color=001a5e&title_color=4d9fff&text_color=80c0ff&langs_count=6" height="170" alt="Top Languages"/>
 </div>
 
 <br/>
