@@ -28,7 +28,6 @@
 
 <br/>
 
----
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-code.svg" width="20" height="20"/></sub>&nbsp; Tech Stack
@@ -44,7 +43,6 @@
 
 <br/>
 
----
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-projects.svg" width="20" height="20"/></sub>&nbsp; Featured Projects
@@ -68,7 +66,7 @@
 
 <br/>
 
----
+
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-certs.svg" width="20" height="20"/></sub>&nbsp; Certifications
@@ -90,7 +88,7 @@
 
 <br/>
 
----
+
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-stats.svg" width="20" height="20"/></sub>&nbsp; GitHub Stats
@@ -108,7 +106,7 @@
 
 <br/>
 
----
+
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-connect.svg" width="20" height="20"/></sub>&nbsp; Connect With Me
