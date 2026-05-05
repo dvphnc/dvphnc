@@ -129,6 +129,7 @@
 <br/>
 
 <div align="center">
+<br/>
 
   <a href="https://linkedin.com/in/dvphnc">
     <img src="https://img.shields.io/badge/LinkedIn-003087?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
