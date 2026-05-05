@@ -20,8 +20,7 @@
   I'm passionate about building things that actually work. Sites, systems, and experiences crafted with care,<br/>
   fueled by good music, and driven by the belief that every detail matters.<br/>
   Whether I'm leading a team or writing code at midnight,<br/>
-  I show up with intention<br/>
-  and build with impact.
+  I show up with intention and build with impact.
 </p>
 
 <br/>
