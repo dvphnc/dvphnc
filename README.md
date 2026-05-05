@@ -110,44 +110,16 @@
 
 <br/>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2" width="100%"/>
-  </picture>
-
-<br/>
-
 <h3 align="center">
   <sub><img src="./dvphnc-icon-connect.svg" width="20" height="20"/></sub>&nbsp; Connect With Me
 </h3>
-
 <img src="./dvphnc-divider.svg" width="100%"/>
-
 <br/>
-
 <div align="center">
-
-  <br/>
-
-  <a href="https://linkedin.com/in/dvphnc">
-    <img src="https://img.shields.io/badge/LinkedIn-003087?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://dvphnc.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-001a5e?style=for-the-badge&logo=github-pages&logoColor=4d9fff" alt="Portfolio"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:jdsoffcl@gmail.com">
-    <img src="https://img.shields.io/badge/Email-0044cc?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://tryhackme.com/p/dvphnc">
-    <img src="https://img.shields.io/badge/TryHackMe-003087?style=for-the-badge&logo=tryhackme&logoColor=4d9fff" alt="TryHackMe"/>
-  </a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-003087?style=for-the-badge)](https://linkedin.com/in/dvphnc)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-001a5e?style=for-the-badge)](https://dvphnc.github.io)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-0044cc?style=for-the-badge)](mailto:jdsoffcl@gmail.com)&nbsp;&nbsp;[![TryHackMe](https://img.shields.io/badge/TryHackMe-003087?style=for-the-badge)](https://tryhackme.com/p/dvphnc)
+ 
 </div>
+<br/>
 
 <br/>
 
@@ -157,4 +129,11 @@
 
 <br/>
 
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2" width="100%"/>
+  </picture>
 
+<br/>
