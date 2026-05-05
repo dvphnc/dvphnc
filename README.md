@@ -45,22 +45,8 @@
 </h3>
 <img src="./dvphnc-divider.svg" width="100%"/>
 <br/>
-<p align="center">
-<a href="https://maildrop-620d.onrender.com"><img src="https://img.shields.io/badge/MailDrop-Live-003399?style=for-the-badge&labelColor=4a5568" alt="MailDrop Live"/></a><a href="https://github.com/dvphnc/maildrop"><img src="https://img.shields.io/badge/-%E2%80%8B_Code-1a365d?style=for-the-badge&labelColor=1a365d" alt="Code"/></a>
-</p>
-<p align="center">
-<a href="https://traviajournal.vercel.app"><img src="https://img.shields.io/badge/Travia_Journal-Live-003399?style=for-the-badge&labelColor=4a5568" alt="Travia Journal Live"/></a><a href="https://github.com/dvphnc/travia-journal"><img src="https://img.shields.io/badge/-%E2%80%8B_Code-1a365d?style=for-the-badge&labelColor=1a365d" alt="Code"/></a>
-</p>
-<p align="center">
-<a href="https://hirewithhirely.vercel.app"><img src="https://img.shields.io/badge/HIRELY-Live-003399?style=for-the-badge&labelColor=4a5568" alt="HIRELY Live"/></a><a href="https://github.com/dvphnc/hirely"><img src="https://img.shields.io/badge/-%E2%80%8B_Code-1a365d?style=for-the-badge&labelColor=1a365d" alt="Code"/></a>
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/SmartCare%2B-Coming_Soon-003399?style=for-the-badge&labelColor=4a5568" alt="SmartCare+ Coming Soon"/>
-</p>
-<p align="center">
-<a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-Live-003399?style=for-the-badge&labelColor=4a5568" alt="Portfolio Live"/></a><a href="https://github.com/dvphnc/dvphnc.github.io"><img src="https://img.shields.io/badge/-%E2%80%8B_Code-1a365d?style=for-the-badge&labelColor=1a365d" alt="Code"/></a>
-</p>
-
+<p align="center"><a href="https://maildrop-620d.onrender.com"><img src="https://img.shields.io/badge/MailDrop-Live-003399?style=for-the-badge&labelColor=4a5568" alt="MailDrop Live"/></a>&nbsp;<a href="https://github.com/dvphnc/maildrop"><img src="https://img.shields.io/badge/MailDrop-Code-003399?style=for-the-badge&labelColor=4a5568" alt="MailDrop Code"/></a>&nbsp;&nbsp;&nbsp;<a href="https://traviajournal.vercel.app"><img src="https://img.shields.io/badge/Travia_Journal-Live-003399?style=for-the-badge&labelColor=4a5568" alt="Travia_Journal Live"/></a>&nbsp;<a href="https://github.com/dvphnc/travia-journal"><img src="https://img.shields.io/badge/Travia_Journal-Code-003399?style=for-the-badge&labelColor=4a5568" alt="Travia_Journal Code"/></a>&nbsp;&nbsp;&nbsp;<a href="https://hirewithhirely.vercel.app"><img src="https://img.shields.io/badge/HIRELY-Live-003399?style=for-the-badge&labelColor=4a5568" alt="HIRELY Live"/></a>&nbsp;<a href="https://github.com/dvphnc/hirely"><img src="https://img.shields.io/badge/HIRELY-Code-003399?style=for-the-badge&labelColor=4a5568" alt="HIRELY Code"/></a></p>
+<p align="center"><img src="https://img.shields.io/badge/SmartCare%2B-Coming_Soon-003399?style=for-the-badge&labelColor=4a5568" alt="SmartCare%2B Coming_Soon"/>&nbsp;&nbsp;&nbsp;<a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-Live-003399?style=for-the-badge&labelColor=4a5568" alt="This_Portfolio Live"/></a>&nbsp;<a href="https://github.com/dvphnc/dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-Code-003399?style=for-the-badge&labelColor=4a5568" alt="This_Portfolio Code"/></a></p>
 <br/>
 
 
