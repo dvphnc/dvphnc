@@ -40,38 +40,18 @@
 
 <br/>
 
-
-
 <h3 align="center">
   <sub><img src="./dvphnc-icon-projects.svg" width="20" height="20"/></sub>&nbsp; Featured Projects
 </h3>
 <img src="./dvphnc-divider.svg" width="100%"/>
 <br/>
-<p align="center">
-<a href="https://maildrop-620d.onrender.com"><img src="https://img.shields.io/badge/MailDrop-001a5e?style=for-the-badge" alt="MailDrop"/></a>
-<a href="https://maildrop-620d.onrender.com"><img src="https://img.shields.io/badge/Live-0044cc?style=for-the-badge" alt="Live"/></a>
-<a href="https://github.com/dvphnc/maildrop"><img src="https://img.shields.io/badge/Code-003087?style=for-the-badge" alt="Code"/></a>
-&nbsp;&nbsp;&nbsp;
-<a href="https://traviajournal.vercel.app"><img src="https://img.shields.io/badge/Travia_Journal-001a5e?style=for-the-badge" alt="Travia Journal"/></a>
-<a href="https://traviajournal.vercel.app"><img src="https://img.shields.io/badge/Live-0044cc?style=for-the-badge" alt="Live"/></a>
-<a href="https://github.com/dvphnc/travia-journal"><img src="https://img.shields.io/badge/Code-003087?style=for-the-badge" alt="Code"/></a>
-</p>
-<p align="center">
-<a href="https://hirewithhirely.vercel.app"><img src="https://img.shields.io/badge/HIRELY-001a5e?style=for-the-badge" alt="HIRELY"/></a>
-<a href="https://hirewithhirely.vercel.app"><img src="https://img.shields.io/badge/Live-0044cc?style=for-the-badge" alt="Live"/></a>
-<a href="https://github.com/dvphnc/hirely"><img src="https://img.shields.io/badge/Code-003087?style=for-the-badge" alt="Code"/></a>
-&nbsp;&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/SmartCare+-001a5e?style=for-the-badge" alt="SmartCare+"/>
-<img src="https://img.shields.io/badge/Coming_Soon-0044cc?style=for-the-badge" alt="Coming Soon"/>
-</p>
-<p align="center">
-<a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-001a5e?style=for-the-badge" alt="Portfolio"/></a>
-<a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/Live-0044cc?style=for-the-badge" alt="Live"/></a>
-<a href="https://github.com/dvphnc/dvphnc.github.io"><img src="https://img.shields.io/badge/Code-003087?style=for-the-badge" alt="Code"/></a>
-</p>
+<p align="center"><a href="https://maildrop-620d.onrender.com"><img src="https://img.shields.io/badge/MailDrop-001a5e?style=for-the-badge" alt="MailDrop"/></a> <a href="https://maildrop-620d.onrender.com"><img src="https://img.shields.io/badge/Live-0044cc?style=for-the-badge" alt="Live"/></a> <a href="https://github.com/dvphnc/maildrop"><img src="https://img.shields.io/badge/Code-003087?style=for-the-badge" alt="Code"/></a></p>
+<p align="center"><a href="https://traviajournal.vercel.app"><img src="https://img.shields.io/badge/Travia_Journal-001a5e?style=for-the-badge" alt="Travia Journal"/></a> <a href="https://traviajournal.vercel.app"><img src="https://img.shields.io/badge/Live-0044cc?style=for-the-badge" alt="Live"/></a> <a href="https://github.com/dvphnc/travia-journal"><img src="https://img.shields.io/badge/Code-003087?style=for-the-badge" alt="Code"/></a></p>
+<p align="center"><a href="https://hirewithhirely.vercel.app"><img src="https://img.shields.io/badge/HIRELY-001a5e?style=for-the-badge" alt="HIRELY"/></a> <a href="https://hirewithhirely.vercel.app"><img src="https://img.shields.io/badge/Live-0044cc?style=for-the-badge" alt="Live"/></a> <a href="https://github.com/dvphnc/hirely"><img src="https://img.shields.io/badge/Code-003087?style=for-the-badge" alt="Code"/></a></p>
+<p align="center"><img src="https://img.shields.io/badge/SmartCare+-001a5e?style=for-the-badge" alt="SmartCare+"/> <img src="https://img.shields.io/badge/Coming_Soon-0044cc?style=for-the-badge" alt="Coming Soon"/></p>
+<p align="center"><a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-001a5e?style=for-the-badge" alt="Portfolio"/></a> <a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/Live-0044cc?style=for-the-badge" alt="Live"/></a> <a href="https://github.com/dvphnc/dvphnc.github.io"><img src="https://img.shields.io/badge/Code-003087?style=for-the-badge" alt="Code"/></a></p>
 
 <br/>
-
 
 
 <h3 align="center">
