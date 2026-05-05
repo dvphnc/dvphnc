@@ -118,7 +118,7 @@
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dvphnc&style=for-the-badge&color=003087&label=PROFILE+VIEWS&labelColor=001a5e"/>
+  <img src="https://komarev.com/ghpvc/?username=dvphnc&003399?style=for-the-badge=PROFILE+VIEWS&labelColor=001a5e"/>
 </div>
 
 
