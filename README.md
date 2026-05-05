@@ -123,8 +123,6 @@
 <a href="https://tryhackme.com/p/dvphnc"><img src="https://img.shields.io/badge/TryHackMe-003087?style=for-the-badge" alt="TryHackMe"/></a>
 </p>
 
-<br/>
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=dvphnc&style=for-the-badge&color=003087&label=PROFILE+VIEWS&labelColor=001a5e"/>
 </div>
