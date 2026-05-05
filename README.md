@@ -110,6 +110,11 @@
 
 <br/>
 
+<h3 align="center">
+  <sub><img src="./dvphnc-icon-connect.svg" width="20" height="20"/></sub>&nbsp; Connect With Me
+</h3>
+<img src="./dvphnc-divider.svg" width="100%"/>
+<br/>
 <p align="center">
 <a href="https://linkedin.com/in/dvphnc"><img src="https://img.shields.io/badge/LinkedIn-003087?style=for-the-badge" alt="LinkedIn"/></a>
 &nbsp;
