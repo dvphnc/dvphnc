@@ -43,23 +43,17 @@
 
 
 <h3 align="center">
-  <sub><img src="./dvphnc-icon-projects.svg" width="20" height="20"/></sub>&nbsp; Featured Projects
+  <sub><img src="./dvphnc-icon-certs.svg" width="20" height="20"/></sub>&nbsp; Certifications
 </h3>
-
 <img src="./dvphnc-divider.svg" width="100%"/>
-
 <br/>
-
 <div align="center">
-
-| Project | Role | Stack | Links |
-|---------|------|-------|-------|
-| **MailDrop** | Solo Developer | Laravel · Vue 3 · Inertia · PayPal | [![Live](https://img.shields.io/badge/Live-001a5e?style=flat-square&logo=vercel&logoColor=4d9fff)](https://maildrop-620d.onrender.com) [![Code](https://img.shields.io/badge/Code-003087?style=flat-square&logo=github&logoColor=white)](https://github.com/dvphnc/maildrop) |
-| **Travia Journal** | Web Developer & Owner | Laravel · PHP · CSS | [![Live](https://img.shields.io/badge/Live-001a5e?style=flat-square&logo=vercel&logoColor=4d9fff)](https://traviajournal.vercel.app) [![Code](https://img.shields.io/badge/Code-003087?style=flat-square&logo=github&logoColor=white)](https://github.com/dvphnc/travia-journal) |
-| **HIRELY** | Scrum Master · UI/UX | Laravel · PHP · Figma | [![Live](https://img.shields.io/badge/Live-001a5e?style=flat-square&logo=vercel&logoColor=4d9fff)](https://hirewithhirely.vercel.app) [![Code](https://img.shields.io/badge/Code-003087?style=flat-square&logo=github&logoColor=white)](https://github.com/dvphnc/hirely) |
-| **SmartCare+** | Project Manager | Laravel · MySQL · SDLC | [![Soon](https://img.shields.io/badge/Soon-001a5e?style=flat-square&logoColor=4d9fff)](#) |
-| **This Portfolio** | Solo Developer | HTML · CSS · GSAP · Three.js | [![Live](https://img.shields.io/badge/Live-001a5e?style=flat-square&logo=vercel&logoColor=4d9fff)](https://dvphnc.github.io) |
-
+[![OCI AI](https://img.shields.io/badge/OCI_AI_Foundations_Associate-Oracle_2024-001a5e?style=for-the-badge&logo=oracle&logoColor=4d9fff)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C40D337A86BE52AE8C02A90C0BC838A9226F3044D11CF05F86A518AAFDF7103F)
+[![OCI Data](https://img.shields.io/badge/OCI_Data_Foundations_Associate-Oracle_2024-003087?style=for-the-badge&logo=oracle&logoColor=80c0ff)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D43A8C93FE30161F5AF6077AE49AB9FE612D8698DFBD1116CC92691601BF4C03)
+[![OCI Foundations](https://img.shields.io/badge/OCI_Foundations_Associate-Oracle_2024-001a5e?style=for-the-badge&logo=oracle&logoColor=4d9fff)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D43A8C93FE30161F5AF6077AE49AB9FE797A13EA6EB10947B7E30B9B0DFD2DC1)
+[![ISC2](https://img.shields.io/badge/Certified_in_Cybersecurity-ISC2-003087?style=for-the-badge&logo=isc2&logoColor=80c0ff)](https://www.credly.com/badges/7a7ef255-2b1a-4832-8a8d-5d4a397603e4)
+[![SQL](https://img.shields.io/badge/SQL_%26_Relational_Databases_101-Cognitive_Class_2024-001a5e?style=for-the-badge&logo=ibm&logoColor=4d9fff)](https://courses.cognitiveclass.ai/certificates/fea1a489739a4b02ab4c9d266a0ade0f)
+ 
 </div>
 
 <br/>
