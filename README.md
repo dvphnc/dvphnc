@@ -45,11 +45,20 @@
 </h3>
 <img src="./dvphnc-divider.svg" width="100%"/>
 <br/>
-<p align="center"><a href="https://maildrop-620d.onrender.com"><img src="https://img.shields.io/badge/MailDrop-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="MailDrop"/></a>&nbsp;&nbsp;<a href="https://traviajournal.vercel.app"><img src="https://img.shields.io/badge/Travia_Journal-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="Travia Journal"/></a>&nbsp;&nbsp;<a href="https://hirewithhirely.vercel.app"><img src="https://img.shields.io/badge/HIRELY-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="HIRELY"/></a></p>
-<p align="center"><img src="https://img.shields.io/badge/SmartCare%2B-Coming%20Soon-003399?style=for-the-badge&labelColor=4a5568" alt="SmartCare+"/>&nbsp;&nbsp;<a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="This Portfolio"/></a></p>
-<p align="center"><img src="https://img.shields.io/badge/SmartCare%2B-Coming_Soon-003399?style=for-the-badge&labelColor=4a5568" alt="SmartCare%2B Coming_Soon"/>&nbsp;&nbsp;&nbsp;<a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-Live-003399?style=for-the-badge&labelColor=4a5568" alt="This_Portfolio Live"/></a>&nbsp;<a href="https://github.com/dvphnc/dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-Code-003399?style=for-the-badge&labelColor=4a5568" alt="This_Portfolio Code"/></a></p>
+<p align="center">
+<a href="https://maildrop-620d.onrender.com"><img src="https://img.shields.io/badge/MailDrop-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="MailDrop"/></a>
+&nbsp;
+<a href="https://traviajournal.vercel.app"><img src="https://img.shields.io/badge/Travia_Journal-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="Travia Journal"/></a>
+&nbsp;
+<a href="https://hirewithhirely.vercel.app"><img src="https://img.shields.io/badge/HIRELY-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="HIRELY"/></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/SmartCare%2B-Coming%20Soon-003399?style=for-the-badge&labelColor=4a5568" alt="SmartCare+"/>
+&nbsp;
+<a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="This Portfolio"/></a>
+</p>
+ 
 <br/>
-
 
 
 <h3 align="center">
