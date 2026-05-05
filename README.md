@@ -17,9 +17,10 @@
 </p>
 
 <p align="center">
-  I'm passionate about building things that actually work. Sites, systems, and experiences crafted with care,<br/>
-  fueled by good music, and driven by the belief that every detail matters.<br/>
-  Whether I'm leading a team or writing code at midnight,<br/>
+  I'm passionate about building things that actually work — sites, systems, and experiences crafted with care.<br/>
+  From <strong>full-stack web apps</strong> to <strong>animated portfolios</strong>, I enjoy turning ideas into real, deployed products,<br/>
+  fueled by good music and driven by the belief that every detail matters.<br/>
+  Whether leading a team or writing code at midnight,<br/>
   I show up with intention and build with impact.
 </p>
 
