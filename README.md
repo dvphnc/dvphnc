@@ -55,7 +55,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/SmartCare%2B-Coming%20Soon-003399?style=for-the-badge&labelColor=4a5568" alt="SmartCare+"/>
 &nbsp;
-<a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="This Portfolio"/></a>
+<a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/Portfolio-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="Portfolio"/></a>
 </p>
  
 <br/>
