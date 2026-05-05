@@ -102,8 +102,6 @@
   <img src="https://dvphnc-stats.vercel.app/api/top-langs/?username=dvphnc&hide_border=true&bg_color=0d1117&title_color=4d9fff&text_color=80c0ff&langs_count=8&layout=compact&custom_title=Most+Used+Languages" height="195" alt="Top Languages"/>
 </div>
 
-<br/>
-
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=dvphnc&hide_border=true&background=0d1117&ring=4d9fff&fire=0044cc&currStreakLabel=4d9fff&sideLabels=4d9fff&dates=80c0ff&currStreakNum=ffffff&sideNums=80c0ff&stroke=0d1117" width="60%" alt="GitHub Streak"/>
 </div>
