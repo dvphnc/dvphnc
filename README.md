@@ -127,7 +127,6 @@
   <img src="https://komarev.com/ghpvc/?username=dvphnc&style=for-the-badge&color=003087&label=PROFILE+VIEWS&labelColor=001a5e"/>
 </div>
 
-<br/>
 
 <div align="center">
   <picture>
