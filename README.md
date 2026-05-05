@@ -17,9 +17,9 @@
 </p>
 
 <p align="center">
-  I build things from scratch — web apps, HR systems, email platforms, travel blogs.<br/>
-  From <strong>full-stack Laravel apps</strong> to <strong>GSAP-animated portfolios</strong>,<br/>
-  I turn ideas into working, deployed products.
+  I'm passionate about building things that actually work. Sites, systems, and experiences crafted with care,<br/>
+  fueled by good music, and driven by the belief that every detail matters.<br/>
+  Whether I'm leading a team or writing code at midnight, I show up with intention and build with impact.
 </p>
 
 <br/>
