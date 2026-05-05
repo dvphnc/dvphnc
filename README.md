@@ -105,6 +105,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=dvphnc&style=for-the-badge&color=003087&label=PROFILE+VIEWS&labelColor=001a5e"/>
+</div>
+
+<br/>
+
+<div align="center">
   <img src="https://streak-stats.demolab.com?user=dvphnc&hide_border=true&background=0d1117&ring=4d9fff&fire=0044cc&currStreakLabel=4d9fff&sideLabels=4d9fff&dates=80c0ff&currStreakNum=ffffff&sideNums=80c0ff&stroke=0d1117" width="60%" alt="GitHub Streak"/>
 </div>
 
@@ -141,11 +147,7 @@
 
 <br/>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dvphnc&style=for-the-badge&color=003087&label=PROFILE+VIEWS&labelColor=001a5e"/>
-</div>
 
-<br/>
 
 <div align="center">
   <picture>
