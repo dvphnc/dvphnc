@@ -105,6 +105,12 @@
 <br/>
 
 <div align="center">
+  <img src="https://streak-stats.demolab.com?user=dvphnc&hide_border=true&background=0d1117&ring=4d9fff&fire=0044cc&currStreakLabel=4d9fff&sideLabels=4d9fff&dates=80c0ff&currStreakNum=ffffff&sideNums=80c0ff&stroke=0d1117" width="60%" alt="GitHub Streak"/>
+</div>
+
+<br/>
+
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
@@ -112,13 +118,6 @@
   </picture>
 
 <br/>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=dvphnc&hide_border=true&background=0d1117&ring=4d9fff&fire=0044cc&currStreakLabel=4d9fff&sideLabels=4d9fff&dates=80c0ff&currStreakNum=ffffff&sideNums=80c0ff&stroke=0d1117" width="60%" alt="GitHub Streak"/>
-</div>
-
-<br/>
-
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-connect.svg" width="20" height="20"/></sub>&nbsp; Connect With Me
@@ -129,7 +128,8 @@
 <br/>
 
 <div align="center">
-<br/>
+
+  <br/>
 
   <a href="https://linkedin.com/in/dvphnc">
     <img src="https://img.shields.io/badge/LinkedIn-003087?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
