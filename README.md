@@ -65,23 +65,33 @@
 
 
 <h3 align="center">
-  <sub><img src="./dvphnc-icon-certs.svg" width="20" height="20"/></sub>&nbsp; Certifications
+  <sub><img src="./dvphnc-icon-projects.svg" width="20" height="20"/></sub>&nbsp; Featured Projects
 </h3>
-
 <img src="./dvphnc-divider.svg" width="100%"/>
-
 <br/>
-
-<div align="center">
-
-[![OCI AI](https://img.shields.io/badge/OCI_AI_Foundations_Associate-Oracle_2024-001a5e?style=for-the-badge&logo=oracle&logoColor=4d9fff)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=C40D337A86BE52AE8C02A90C0BC838A9226F3044D11CF05F86A518AAFDF7103F)
-[![OCI Data](https://img.shields.io/badge/OCI_Data_Foundations_Associate-Oracle_2024-003087?style=for-the-badge&logo=oracle&logoColor=80c0ff)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D43A8C93FE30161F5AF6077AE49AB9FE612D8698DFBD1116CC92691601BF4C03)
-[![OCI Foundations](https://img.shields.io/badge/OCI_Foundations_Associate-Oracle_2024-001a5e?style=for-the-badge&logo=oracle&logoColor=4d9fff)](https://catalog-education.oracle.com/ords/certview/sharebadge?id=D43A8C93FE30161F5AF6077AE49AB9FE797A13EA6EB10947B7E30B9B0DFD2DC1)
-[![ISC2](https://img.shields.io/badge/Certified_in_Cybersecurity-ISC2-003087?style=for-the-badge&logo=isc2&logoColor=80c0ff)](https://www.credly.com/badges/7a7ef255-2b1a-4832-8a8d-5d4a397603e4)
-[![SQL](https://img.shields.io/badge/SQL_%26_Relational_Databases_101-Cognitive_Class_2024-001a5e?style=for-the-badge&logo=ibm&logoColor=4d9fff)](https://courses.cognitiveclass.ai/certificates/fea1a489739a4b02ab4c9d266a0ade0f)
-
-</div>
-
+<p align="center">
+<a href="https://maildrop-620d.onrender.com"><img src="https://img.shields.io/badge/MailDrop-Live-003399?style=for-the-badge&labelColor=4a5568" alt="MailDrop Live"/></a>
+&nbsp;
+<a href="https://github.com/dvphnc/maildrop"><img src="https://img.shields.io/badge/MailDrop-Code-003399?style=for-the-badge&labelColor=4a5568" alt="MailDrop Code"/></a>
+</p>
+<p align="center">
+<a href="https://traviajournal.vercel.app"><img src="https://img.shields.io/badge/Travia_Journal-Live-003399?style=for-the-badge&labelColor=4a5568" alt="Travia Journal Live"/></a>
+&nbsp;
+<a href="https://github.com/dvphnc/travia-journal"><img src="https://img.shields.io/badge/Travia_Journal-Code-003399?style=for-the-badge&labelColor=4a5568" alt="Travia Journal Code"/></a>
+</p>
+<p align="center">
+<a href="https://hirewithhirely.vercel.app"><img src="https://img.shields.io/badge/HIRELY-Live-003399?style=for-the-badge&labelColor=4a5568" alt="HIRELY Live"/></a>
+&nbsp;
+<a href="https://github.com/dvphnc/hirely"><img src="https://img.shields.io/badge/HIRELY-Code-003399?style=for-the-badge&labelColor=4a5568" alt="HIRELY Code"/></a>
+</p>
+<p align="center">
+<img src="https://img.shields.io/badge/SmartCare%2B-Coming_Soon-003399?style=for-the-badge&labelColor=4a5568" alt="SmartCare+ Coming Soon"/>
+</p>
+<p align="center">
+<a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-Live-003399?style=for-the-badge&labelColor=4a5568" alt="Portfolio Live"/></a>
+&nbsp;
+<a href="https://github.com/dvphnc/dvphnc.github.io"><img src="https://img.shields.io/badge/This_Portfolio-Code-003399?style=for-the-badge&labelColor=4a5568" alt="Portfolio Code"/></a>
+</p>
 <br/>
 
 
