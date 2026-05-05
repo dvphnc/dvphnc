@@ -110,16 +110,15 @@
 
 <br/>
 
-<h3 align="center">
-  <sub><img src="./dvphnc-icon-connect.svg" width="20" height="20"/></sub>&nbsp; Connect With Me
-</h3>
-<img src="./dvphnc-divider.svg" width="100%"/>
-<br/>
-<div align="center">
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-003087?style=for-the-badge)](https://linkedin.com/in/dvphnc)&nbsp;&nbsp;[![Portfolio](https://img.shields.io/badge/Portfolio-001a5e?style=for-the-badge)](https://dvphnc.github.io)&nbsp;&nbsp;[![Email](https://img.shields.io/badge/Email-0044cc?style=for-the-badge)](mailto:jdsoffcl@gmail.com)&nbsp;&nbsp;[![TryHackMe](https://img.shields.io/badge/TryHackMe-003087?style=for-the-badge)](https://tryhackme.com/p/dvphnc)
- 
-</div>
-<br/>
+<p align="center">
+<a href="https://linkedin.com/in/dvphnc"><img src="https://img.shields.io/badge/LinkedIn-003087?style=for-the-badge" alt="LinkedIn"/></a>
+&nbsp;
+<a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/Portfolio-001a5e?style=for-the-badge" alt="Portfolio"/></a>
+&nbsp;
+<a href="mailto:jdsoffcl@gmail.com"><img src="https://img.shields.io/badge/Email-0044cc?style=for-the-badge" alt="Email"/></a>
+&nbsp;
+<a href="https://tryhackme.com/p/dvphnc"><img src="https://img.shields.io/badge/TryHackMe-003087?style=for-the-badge" alt="TryHackMe"/></a>
+</p>
 
 <br/>
 
