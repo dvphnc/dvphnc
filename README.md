@@ -105,8 +105,11 @@
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=dvphnc&style=for-the-badge&color=003087&label=PROFILE+VIEWS&labelColor=001a5e"/>
-</div>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2" width="100%"/>
+  </picture>
 
 <br/>
 
@@ -147,13 +150,10 @@
 
 <br/>
 
-
-
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
-    <img alt="github-snake" src="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2" width="100%"/>
-  </picture>
+  <img src="https://komarev.com/ghpvc/?username=dvphnc&style=for-the-badge&color=003087&label=PROFILE+VIEWS&labelColor=001a5e"/>
+</div>
 
 <br/>
+
+
