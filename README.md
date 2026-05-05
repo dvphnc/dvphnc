@@ -110,6 +110,21 @@
 
 <br/>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvphnc&bg_color=0d1117&color=80c0ff&line=4d9fff&point=4d9fff&area=true&area_color=003087&hide_border=true&custom_title=Contribution+Graph&radius=6" width="100%" alt="Contribution Graph"/>
+</div>
+
+<br/>
+
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dvphnc&bg_color=0d1117&color=4d9fff&line=4d9fff&point=80c0ff&area=true&area_color=001a5e&hide_border=true&custom_title=Contribution+Activity&radius=6" width="100%" alt="Contribution Activity"/>
+</div>
+</div>
+
+<br/>
+
+
 
 <h3 align="center">
   <sub><img src="./dvphnc-icon-connect.svg" width="20" height="20"/></sub>&nbsp; Connect With Me
@@ -149,11 +164,9 @@
 
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake.svg"/>
-    <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2"/>
+    <img alt="github-snake" src="https://raw.githubusercontent.com/dvphnc/dvphnc/output/github-contribution-grid-snake-dark.svg?v=2" width="100%"/>
   </picture>
-</div>
 
 <br/>
-
