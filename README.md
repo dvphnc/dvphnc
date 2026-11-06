@@ -74,7 +74,7 @@
 <p align="center">
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D43A8C93FE30161F5AF6077AE49AB9FE797A13EA6EB10947B7E30B9B0DFD2DC1"><img src="https://img.shields.io/badge/OCI_Foundations_Associate-Oracle_2024-003399?style=for-the-badge&labelColor=4a5568" alt="OCI Foundations"/></a>
 &nbsp;
-<a href="https://www.credly.com/badges/7a7ef255-2b1a-4832-8a8d-5d4a397603e4"><img src="https://img.shields.io/badge/Certified_in_Cybersecurity-ISC2-003399?style=for-the-badge&labelColor=4a5568" alt="ISC2 CC"/></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/Y05IYRFJA1MY"><img src="https://img.shields.io/badge/CC_Official_Training-ISC2_%C2%B7_Coursera_2025-003399?style=for-the-badge&labelColor=4a5568" alt="ISC2 Certified in Cybersecurity — Official Training"/></a>
 </p>
 <p align="center">
 <a href="https://courses.cognitiveclass.ai/certificates/fea1a489739a4b02ab4c9d266a0ade0f"><img src="https://img.shields.io/badge/SQL_%26_Relational_Databases_101-Cognitive_Class_2024-003399?style=for-the-badge&labelColor=4a5568" alt="SQL"/></a>
@@ -112,7 +112,7 @@
 &nbsp;
 <a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/Portfolio-001a5e?style=for-the-badge" alt="Portfolio"/></a>
 &nbsp;
-<a href="mailto:jdsoffcl@gmail.com"><img src="https://img.shields.io/badge/Email-0044cc?style=for-the-badge" alt="Email"/></a>
+<a href="mailto:dvphnc@gmail.com"><img src="https://img.shields.io/badge/Email-0044cc?style=for-the-badge" alt="Email"/></a>
 &nbsp;
 <a href="https://tryhackme.com/p/dvphnc"><img src="https://img.shields.io/badge/TryHackMe-003087?style=for-the-badge" alt="TryHackMe"/></a>
 </p>
