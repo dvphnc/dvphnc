@@ -35,7 +35,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=laravel,php,mysql,sqlite,html,css,js,ts,vue,react,nextjs,nodejs,canva,git,github,vscode,oracle,docker,vercel,supabase&theme=dark&titles=true&perline=10" alt="Tech Stack"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=python,laravel,php,mysql,sqlite,html,css,js,ts,vue,react,nextjs,nodejs,canva,git,github,vscode,oracle,docker,vercel,supabase&theme=dark&titles=true&perline=10" alt="Tech Stack"/>
 </p>
 
 <br/>
