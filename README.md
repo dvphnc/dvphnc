@@ -1,5 +1,5 @@
 <a href="https://dvphnc.github.io">
-  <img src="./dvphnc-pixel-banner.svg" width="100%" alt="dvphnc — Joana Daphne Sy"/>
+  <img src="./dvphnc-pixel-banner.svg" width="100%" alt="dvphnc · Joana Daphne Sy"/>
 </a>
 
 <img src="./dvphnc-divider.svg" width="100%"/>
@@ -13,13 +13,13 @@
 </div>
 
 <p align="center">
-  <strong>Information Technology</strong> student at <strong>New Era University</strong><br><em>Senior Year · President's Lister</em>
+  <strong>Data &amp; AI</strong> trainee at <strong>U-Tokyo GCI World</strong> · <strong>IT</strong> student at <strong>New Era University</strong><br><em>Senior Year · President's Lister</em>
 </p>
 
 <p align="center">
-  I'm passionate about building things that actually work — sites, systems, and experiences crafted with care.<br/>
-  From <strong>full-stack web apps</strong> to <strong>animated portfolios</strong>, I enjoy turning ideas into real, deployed products,<br/>
-  fueled by good music and driven by the belief that every detail matters.<br/>
+  I clean, explore and model data in <strong>Python</strong>, build on <strong>Laravel</strong> and the cloud,<br/>
+  and keep a <strong>security</strong> notebook on the side. I also <strong>lead teams</strong> and ship on time.<br/>
+  <sub>AI Vision Challenge winner · Youth Forum Organization president</sub>
 </p>
 
 <br/>
@@ -74,7 +74,12 @@
 <p align="center">
 <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=D43A8C93FE30161F5AF6077AE49AB9FE797A13EA6EB10947B7E30B9B0DFD2DC1"><img src="https://img.shields.io/badge/OCI_Foundations_Associate-Oracle_2024-003399?style=for-the-badge&labelColor=4a5568" alt="OCI Foundations"/></a>
 &nbsp;
-<a href="https://www.coursera.org/account/accomplishments/specialization/Y05IYRFJA1MY"><img src="https://img.shields.io/badge/CC_Official_Training-ISC2_%C2%B7_Coursera_2025-003399?style=for-the-badge&labelColor=4a5568" alt="ISC2 Certified in Cybersecurity — Official Training"/></a>
+<a href="https://www.coursera.org/account/accomplishments/specialization/Y05IYRFJA1MY"><img src="https://img.shields.io/badge/CC_Official_Training-ISC2_%C2%B7_Coursera_2025-003399?style=for-the-badge&labelColor=4a5568" alt="ISC2 Certified in Cybersecurity Official Training"/></a>
+</p>
+<p align="center">
+<a href="https://edu.google.accredible.com/79c03d03-4077-4696-8a07-d2b83d14b78a"><img src="https://img.shields.io/badge/Gemini_Certified_University_Student-Google_2026-003399?style=for-the-badge&labelColor=4a5568" alt="Gemini Certified University Student"/></a>
+&nbsp;
+<a href="https://www.linkedin.com/learning/certificates/f41501f6eb854424385a648f7e826349e9b04b92a62885f6f95aca9b3bdb5e67/"><img src="https://img.shields.io/badge/Generative_AI_for_Creatives-Adobe_2025-003399?style=for-the-badge&labelColor=4a5568" alt="Essential Skills in Generative AI for Creatives"/></a>
 </p>
 <p align="center">
 <a href="https://courses.cognitiveclass.ai/certificates/fea1a489739a4b02ab4c9d266a0ade0f"><img src="https://img.shields.io/badge/SQL_%26_Relational_Databases_101-Cognitive_Class_2024-003399?style=for-the-badge&labelColor=4a5568" alt="SQL"/></a>
