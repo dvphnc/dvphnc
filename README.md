@@ -13,7 +13,7 @@
 </div>
 
 <p align="center">
-  <strong>Data &amp; AI</strong> trainee at <strong>U-Tokyo GCI World</strong> · <strong>IT</strong> student at <strong>New Era University</strong><br><em>Senior Year · President's Lister</em>
+  <strong>AI &amp; Data Science</strong> trainee at <strong>U-Tokyo GCI World</strong> · <strong>IT</strong> student at <strong>New Era University</strong><br><em>Senior Year · President's Lister</em>
 </p>
 
 <p align="center">
