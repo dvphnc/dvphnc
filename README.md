@@ -53,7 +53,7 @@
 <a href="https://hirewithhirely.vercel.app"><img src="https://img.shields.io/badge/HIRELY-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="HIRELY"/></a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/SmartCare%2B-Coming%20Soon-003399?style=for-the-badge&labelColor=4a5568" alt="SmartCare+"/>
+<a href="https://smartcare-eta.vercel.app"><img src="https://img.shields.io/badge/SmartCare%2B-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="SmartCare+"/></a>
 &nbsp;
 <a href="https://dvphnc.github.io"><img src="https://img.shields.io/badge/Portfolio-Live%20%C2%B7%20Code-003399?style=for-the-badge&labelColor=4a5568" alt="Portfolio"/></a>
 </p>
