@@ -19,7 +19,7 @@
 <p align="center">
   I clean, explore and model data in <strong>Python</strong>, build on <strong>Laravel</strong> and the cloud,<br/>
   and keep a <strong>security</strong> notebook on the side. I also <strong>lead teams</strong> and ship on time.<br/>
-  <sub>AI Vision Challenge winner · Youth Forum Organization President</sub>
+  <sub><em>AI Vision Challenge winner · Youth Forum Organization President</em></sub>
 </p>
 
 <br/>
